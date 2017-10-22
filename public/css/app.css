@@ -1,0 +1,29 @@
+body{
+  background-color:#E66A8C;
+  color:white;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 0.5rem;
+  font-size: 1rem;
+}
+
+.buttoncontainer{
+  display: block;
+  margin-top: 2rem;
+  color:white;
+  display:inline;
+  border-radius: 5px;
+  padding:1.0rem;
+  border:1px solid white;
+  font-family:sans-serif;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.WeatherImage{
+  padding-right: 0rem;
+  margin-top: 2rem;
+  width:20rem;
+
+}
