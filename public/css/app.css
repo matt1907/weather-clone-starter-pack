@@ -27,3 +27,7 @@ body{
   width:20rem;
 
 }
+
+.weatherDescription{
+  text-transform: capitalize;
+}
